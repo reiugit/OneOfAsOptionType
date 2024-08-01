@@ -1,7 +1,9 @@
 # 'OneOf' used as 'Option Type'
 
-      'OneOf<TValue, None>'
-
-can be used like
+Instead of:
 
     'Option<TValue>'
+
+you can also use:
+
+    'OneOf<TValue, None>'
