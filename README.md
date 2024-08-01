@@ -1,9 +1,9 @@
 # 'OneOf' used as 'Option Type'
 
-Similar to
+OneOf can also be used as Option-Type:
 
-    'Option<TValue>'
+    OneOf<TValue, None>
 
-you can also use
-
-    'OneOf<TValue, None>'
+and this usage is similar to:
+    
+    Option<TValue>
