@@ -1,5 +1,3 @@
 # 'OneOf' used as 'Option Type'
 
-<pre>
-  'OneOf<TValue, None>' is similar to 'Option<TValue>'
-</pre>
+  'OneOf&lt;TValue, None&gt;' is similar to 'Option&lt;TValue&gt;'
